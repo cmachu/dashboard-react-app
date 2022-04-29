@@ -1,0 +1,20 @@
+.item-component {
+  background-color: white;
+  padding: 20px;
+  margin: 5px;
+
+  span {
+    display: block;
+    width: 100%;
+  }
+
+  span.button {
+    float: right;
+    cursor: pointer;
+  }
+
+  .item-details-component {
+    padding: 20px;
+    margin: 5px;
+  }
+}
